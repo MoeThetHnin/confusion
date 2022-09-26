@@ -1,0 +1,44 @@
+.jumbotron, .footer {
+    background: #C5B4E3;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark {
+     background-color: #512DA8;
+}
+.form-group {
+    padding: .5rem;
+}
+span.badge {
+    margin: 0 0.5rem;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.col {
+    position: relative;
+}
